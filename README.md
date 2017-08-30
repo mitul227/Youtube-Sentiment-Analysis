@@ -13,6 +13,8 @@ Eg - If you enter 70 that means 70% weightage will be given to sentiment obtaine
 
 For downloading the youtube comments youtube comment downloader (https://github.com/egbertbouman/youtube-comment-downloader) is used
 
+Youtube API has been used for fetching number of likes and dislikes from a video
+
 Naive Bayes Classifier is used for determining the sentiment here
 
 
