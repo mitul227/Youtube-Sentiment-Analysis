@@ -1,6 +1,6 @@
 # Sentiment-Analysis-of-Youtube-Comments
 Fetches 200 top rated comments (most liked) and number of likes, dislikes from a youtube video and determines if sentiment 
-towards this video is positive or negative
+towards this video is positive, negative or mixed
 
 
 # Implementation
